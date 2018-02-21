@@ -20,4 +20,6 @@ Routing Issue in Angular, Issues with connecting to Loopback. Cant register, log
 
 Loopback Documentation - https://loopback.io/doc/index.html Angular and Loopback - https://loopback.io/doc/en/lb2/AngularJS-JavaScript-SDK.html Code Example - https://www.codetutorial.io/angularjs-chat-whit-socket-io-and-loopback/ Udemy Course - https://www.udemy.com/loopback-angular-5-ionic-3-build-web-and-mobile-apps/learn/v4/overview
 
-Code Test Video - BEING UPLOADED
+Code Test Video - https://youtu.be/Z51ugJJn3HE
+
+
